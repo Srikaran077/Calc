@@ -25,7 +25,7 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 ## PROGRAM :
-'''
+```
 calc.html
 
 <!DOCTYPE html>
@@ -82,7 +82,8 @@ calc.html
     <script src="index.js"></script>
 </body>
 </html>
-
+```
+```
 index.js
 
 let screen = document.getElementById('screen');
@@ -177,7 +178,7 @@ button {
     
 }
 
-'''
+```
 ## OUTPUT:
 ![alt text](calculator-1.png)
 ![alt text](calculator-2.png)
